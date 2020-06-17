@@ -1,3 +1,4 @@
+
 import { Component, OnInit } from '@angular/core';
 import { Quote } from '../quote';
 @Component({
@@ -7,8 +8,8 @@ import { Quote } from '../quote';
 })
 export class QuoteDisplayComponent implements OnInit {
   quotes: Quote[] = [
-    new Quote('John', 'All that we are is the result of what we have thought. ', 'Buddha', new Date(2016, 10, 27)),
-    new Quote('Pius', 'I have no special talent. I am only passionately curious. ', 'Albert Einstein', new Date())
+    new Quote('Emmanuel', 'Dont grieve,everything you lose comes around in another form.', 'Rumi', new Date(2019, 10, 27)),
+    new Quote('Shila', 'Insanity: doing the same thing over and over again and expecting different results. ', 'Albert Einstein', new Date())
   ];
   constructor() { }
   num1: number;
