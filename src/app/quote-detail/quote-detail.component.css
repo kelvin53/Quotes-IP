@@ -1,0 +1,7 @@
+.vote-icon {
+  color: #ccc;
+  cursor: pointer;
+}
+.vote-icon:hover {
+  color: #000;
+}
