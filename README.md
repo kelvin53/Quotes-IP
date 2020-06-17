@@ -27,7 +27,7 @@ Given the following form inputs.
 
 | Author | Writer   | Quote | Action | Message           |
 | ------ | -------- | ----- | ------ | ----------------- |
-| Ibrah  | John Doe | Hello | submit | Quote Added       |
+| Koskei  | Lively | Hello | submit | Quote Added       |
 | \_     | \_       | \_    | submit | Enter all details |
 
 ## Technologies Used
@@ -93,4 +93,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Copyright (c) 2020 **kelvin**S
+Copyright (c) 2020 **kelvin**
