@@ -3,7 +3,7 @@
 @import'~font-awesome/css/font-awesome.min.css';
 body{
     font-family: 'Muli',sans-serif;
-    background-image: url('../src/assets/bg.jpg');
+    background-image: url('../src/assets/quotes.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
